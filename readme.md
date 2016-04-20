@@ -1,15 +1,3 @@
-# loopback-connector-sendgrid
-[![view on npm](http://img.shields.io/npm/v/loopback-connector-sendgrid.svg?style=flat)](https://www.npmjs.org/package/loopback-connector-sendgrid)
-[![npm module downloads per month](http://img.shields.io/npm/dm/loopback-connector-sendgrid.svg?style=flat)](https://www.npmjs.org/package/loopback-connector-sendgrid)
-[![Dependency status](https://david-dm.org/Cellarise/loopback-connector-sendgrid.svg?style=flat)](https://david-dm.org/Cellarise/loopback-connector-sendgrid)
-[![Build Status](https://travis-ci.org/Cellarise/loopback-connector-sendgrid.svg?branch=master)](https://travis-ci.org/Cellarise/loopback-connector-sendgrid)
-[![Code
-Climate](https://codeclimate.com/github/Cellarise/loopback-connector-sendgrid/badges/gpa.svg)](https://codeclimate.com/github/Cellarise/loopback-connector-sendgrid)
-[![Test Coverage](https://codeclimate.com/github/Cellarise/loopback-connector-sendgrid/badges/coverage.svg)](https://codeclimate.com/github/Cellarise/loopback-connector-sendgrid/badges/coverage.svg)
-
-> Loopback connector module which allow to send emails via SendGrid
-
-
 ## Installation
 
 ````sh
